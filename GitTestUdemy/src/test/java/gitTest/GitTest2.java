@@ -6,6 +6,7 @@ public class GitTest2 {
 		// TODO Auto-generated method stub
 		System.out.println("This is Git Test 2");
 		System.out.println("This has been added by GitStuff123");
+		System.out.println("This has been updated by GitStuff");
 
 	}
 
